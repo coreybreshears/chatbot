@@ -1,0 +1,2 @@
+export const LOCAL_STORAGE_API_TOKEN = "API_TOKEN";
+export const LOCAL_STORAGE_EXPIRE_AT = "EXPIRE_AT";
